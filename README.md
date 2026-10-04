@@ -1,10 +1,10 @@
 # copyingRepos
-Documentation on Copying Repositories (Harder than you might think) and Deleting parts.    
+Documentation on Copying Repositories (Harder than you might think) and deleting commits.    
 MJS 10.4.26    
     
 ==================================   
 GOAL: It is desired to produce new repos, such as bootcamp homework repos, with the  
-original set-up.  In other words the original files from the bootcamp are 
+original set-up. In other words the original files from the bootcamp are 
 "loaded", but no changes have been made to them.  
 ============================================   
 CANT: One cannot fork one's own repo into the user's account !!  
