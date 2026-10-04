@@ -15,5 +15,8 @@ CAN: (B) Likely can clone repo to local machine, change name of remote and uploa
 ==========================================================   
 CANT: It is just not possible to create a fork of a repo in the same account as the original repo.  
 
-CAN: (A) Fork repo into an organizational account.  
+CAN: (A) Fork repo into an organizational account.    
 Step 1: Create an organization (if not already created).  
+   Step 1A: Open user navigation menu (top right).
+   Step 1B: Click Organizations  
+   Step 1C: 
